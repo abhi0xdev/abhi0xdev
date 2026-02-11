@@ -9,7 +9,7 @@ I specialize in building **safe, scalable, and production-ready platforms** that
 
 ## 🚀 What I Focus On
 
-- Kubernetes & Cloud-Native Platforms  
+- Kubernetes & Cloud-Native Platforms (AWS & Azure)
 - CI/CD & Release Engineering  
 - Progressive Delivery (Canary, Blue-Green)  
 - GitOps (ArgoCD)  
@@ -50,15 +50,19 @@ Designed a production-style deployment architecture evolving from containerizati
 
 ### **CI/CD**
 - GitHub Actions  
-- Release Automation  
+- Jenkins
+- Azure Devops  
 
 ### **Cloud**
-- AWS  
-- Azure (AKS)
+- AWS  (IAM, S3, EC2, VPC, ELB, CloudFormation)
+- Azure (AKS, Cosmos DB)
 
 ### **Observability**
 - Grafana  
-- Dynatrace  
+- Dynatrace
+- Prometheus
+- Datadog
+- New Relic  
 
 ### **Languages**
 - Python  
@@ -69,7 +73,7 @@ Designed a production-style deployment architecture evolving from containerizati
 
 ## 🧠 Currently Advancing In
 
-- Advanced Kubernetes (scaling, networking, storage)  
+- Advanced Kubernetes (scaling, networking, storage, probes)  
 - Terraform & Infrastructure as Code  
 - Platform Engineering Patterns  
 - Reliability & Failure Design  
