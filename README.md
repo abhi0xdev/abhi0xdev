@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abhinandan Gayaki  
 ### DevOps Engineer | Kubernetes | Platform Engineering | SRE-Oriented
 
-DevOps Engineer with 3.5+ years of experience designing automated delivery pipelines, orchestrating Kubernetes workloads, and improving production reliability for distributed systems.
-
-I specialize in building **safe, scalable, and production-ready platforms** that enable high-velocity software delivery while minimizing operational risk.
+DevOps & SRE engineer with 4+ years building and operating Azure Kubernetes (AKS) platforms in the healthcare domain at Cognizant. Hands-on across the delivery and reliability lifecycle — CI/CD support (GitHub Actions, Azure DevOps), infrastructure as code (Terraform), and automation (Bash, Python), alongside observability operations (Prometheus, Grafana, Dynatrace, Azure Monitor), production incident response, and root-cause analysis. Self-built an end-to-end open-source observability platform. Microsoft AZ-400 certified.
 
 ---
 
